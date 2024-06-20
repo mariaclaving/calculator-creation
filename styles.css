@@ -1,0 +1,382 @@
+body {
+    height:100rem;
+    background-color: black;
+}
+
+
+.outsideContainer {
+    margin-top: 7rem;
+    margin-left: 18rem;
+    height: 25rem;
+    width: 50rem;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    }
+
+.whiteContainer {
+    height: 23rem;
+    width: 48.7rem;
+    background-color: white;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content:center;
+    align-items: center;
+
+}
+
+.topContainer {
+    height: 3rem;
+    width: 47rem;
+    background-color: lightgray;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 0.7rem;
+}
+
+
+
+
+.lowerContainer {
+    height: 17rem;
+    width: 47rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.rowOne {
+    height: 4rem;
+    width: 46.8rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding-left: 
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 1rem;
+    
+
+}
+
+.rowTwo  {
+    height: 4rem;
+    width: 46.8rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding-left: 
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 1rem;
+    
+
+}
+
+.rowThree {
+    height: 4rem;
+    width: 46.8rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding-left: 
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 1rem;
+
+}
+
+.rowFour {
+    height: 4rem;
+    width: 46.8rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding-left: 
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 1rem;
+    
+
+}
+
+
+.number1 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+    
+   
+
+}
+
+.number2 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+}
+
+.number3 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.plus {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: yellow;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number4 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+}
+
+.number5 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number6 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.minus {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: yellow;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number7 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number8 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number9 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.asterisk {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: yellow;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.number0 {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+}
+
+.cSign {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: red;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.equals {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: green;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+}
+
+.slash {
+    height: 3rem;
+    width: 10rem;
+    background-color: lightgray;
+    border-radius: 0.7rem;
+    background-color: yellow;
+    border-color: grey;
+    border-style: solid;
+    border-width: thin;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center;
+    align-items: center;
+
+}
+
+.val {
+    font-weight: 500;
+}
